@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>mouse19.jpg</filename>
+	<path>C:\Users\juand\Downloads\deteccion_objetos\imagenes\mouse19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>29</ymin>
+			<xmax>211</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>
