@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes 2</folder>
+	<filename>teclado36.jpg</filename>
+	<path>C:\Users\juand\Downloads\Deep Learning\deteccion_objetos\imagenes 2\teclado36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>85</ymin>
+			<xmax>292</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
