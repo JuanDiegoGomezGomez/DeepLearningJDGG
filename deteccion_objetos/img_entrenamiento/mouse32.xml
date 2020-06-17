@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes 2</folder>
+	<filename>mouse32.jpg</filename>
+	<path>C:\Users\juand\Downloads\Deep Learning\deteccion_objetos\imagenes 2\mouse32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>101</ymin>
+			<xmax>243</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
