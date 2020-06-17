@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes 2</folder>
+	<filename>audifonos22.jpg</filename>
+	<path>C:\Users\juand\Downloads\Deep Learning\deteccion_objetos\imagenes 2\audifonos22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headset</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>272</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
